@@ -1,0 +1,29 @@
+.RollDice {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+button {
+  display: block;
+  margin: auto;
+  width: 15em;
+  padding: 1.5em;
+  border: 0px;
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+  margin-top: 3em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+}
+
+button:hover {
+  color: black;
+  background-color: white;
+  border: 2px solid black;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+}

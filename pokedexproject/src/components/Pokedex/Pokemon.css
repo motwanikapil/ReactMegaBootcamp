@@ -1,0 +1,12 @@
+.pokemon {
+  background-color: #ccc;
+  text-align: center;
+  display: inline-block;
+  margin: 3vw;
+  width: 17vw;
+  border-radius: 10%;
+}
+
+.pokemon h1 {
+  color: blue;
+}
